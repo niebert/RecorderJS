@@ -2,9 +2,10 @@
 
 ## A plugin for recording/exporting the output of Web Audio API nodes
 
-**Note:** This repository is not being actively maintained due to lack of time and interest. If you maintain or know of a good fork, please let me know so I can direct future visitors to it. In the meantime, if this library isn't working, you can find a list of popular forks here: http://forked.yannick.io/mattdiamond/recorderjs.
+**Note:** This repository is not being actively maintained due to lack of time and interest. If you maintain or know of a good fork, please let me know so I can direct future visitors to it. 
+* GituHub Code: https://github.com/addpipe/simple-recorderjs-demo - [Live Demo](https://addpipe.com/simple-recorderjs-demo/)
 
-Appreciating the ideas, concepts and support of Matt Diamond to the RecorderJS repository for the open source community. Keeping is contribution alive is also appreciation his contribution and allowing others to build on his project. I hope it was useful for some of you as a jumping-off point.
+Appreciating the development, ideas, concepts and support of Matt Diamond to the RecorderJS repository for the open source community. Keeping his contribution and his collaborators alive is also an appreciation for library and allowing others to build on his project. The library was very useful e.g. for RevealJS as just one example and it can still serve as a jumping-off point for others.
 
 ---
 
